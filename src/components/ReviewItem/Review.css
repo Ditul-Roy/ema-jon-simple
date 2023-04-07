@@ -1,0 +1,47 @@
+.review {
+    border: 1px solid red;
+    width: 571px;
+    border-radius: 8px;
+    margin: 25px;
+    padding: 8px;
+    display: flex;
+}
+
+.review img {
+    width: 91px;
+    height: 91px;
+    border-radius: 8px;
+
+}
+.review-info{
+    margin-top: 5px;
+    flex-grow: 1;
+}
+
+.review-info p{
+    margin: 0 15px;
+}
+
+.review-info .title {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0025em;
+    color: blue;
+}
+
+.review-info .sub-title {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0.0025em;
+}
+.btn-delete{
+    border-radius: 50%;
+    height: 55px;
+    width: 55px;
+    margin: auto 20px;
+}
+.orenge{
+    color: orange;
+}

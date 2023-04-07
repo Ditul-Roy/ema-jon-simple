@@ -11,6 +11,9 @@
     border-radius: 8px;
     position: relative;
 }
+.product img{
+    width: 100%;
+}
 
 .product-name {
     font-family: 'Lato';

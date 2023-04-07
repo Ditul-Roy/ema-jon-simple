@@ -1,0 +1,11 @@
+.cart{
+    position: sticky;
+    top: 100px;
+}
+.btn-deleted{
+    background-color: red;
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
